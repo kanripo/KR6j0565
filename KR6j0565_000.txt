@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大吉義神經
+#+DATE: 2015-08-30 20:34:56.735391
+#+PROPERTY: JUAN 0
